@@ -1,4 +1,4 @@
-# PaintTool
+# PaintTool 🎨
 An Doodle Canvas Like MS Paint
 <br>
 <p> View Working Demo Here:-
